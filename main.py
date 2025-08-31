@@ -1,2 +1,2 @@
-
-print("teaching muskaan how git works"
+print("hello world")
+print("teaching muskaan how git works")
